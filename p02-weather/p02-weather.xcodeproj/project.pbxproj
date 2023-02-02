@@ -19,6 +19,7 @@
 		6A61A703298B12FB00FB072F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6A61A705298B12FC00FB072F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6A61A708298B12FC00FB072F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6AB18E0F298B524B00D8C751 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +54,7 @@
 			children = (
 				6A61A701298B12FB00FB072F /* p02_weatherApp.swift */,
 				6A61A703298B12FB00FB072F /* ContentView.swift */,
+				6AB18E0F298B524B00D8C751 /* README.md */,
 				6A61A705298B12FC00FB072F /* Assets.xcassets */,
 				6A61A707298B12FC00FB072F /* Preview Content */,
 			);
